@@ -17,7 +17,7 @@ blocks:
     This works quite nicely here.</strong>
 - template: block__feature
   component: feature
-  background: light
+  background: dark
   orientation: normal
   title: Build a Site in Minutes
   content: Our Gatsby starter is pre-configured with support for <strong>markdown</strong>,
