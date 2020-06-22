@@ -6,11 +6,6 @@
   },
   {
     "type": "internal",
-    "url": "/",
-    "title": "Home"
-  },
-  {
-    "type": "internal",
     "url": "/about-the-demo",
     "title": "What is this?"
   },
@@ -18,5 +13,10 @@
     "type": "internal",
     "url": "/posts",
     "title": "Blog"
+  },
+  {
+    "type": "internal",
+    "url": "/",
+    "title": "Home"
   }
 ]
