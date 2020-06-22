@@ -10,10 +10,11 @@ blocks:
 - template: block__feature
   component: feature
   image: "/src/images/forestry_markdown_editor.png"
-  background: primary
-  orientation: reverse
+  background: dark
+  orientation: normal
   title: A CMS for your Gatsby Project
-  content: Forestry gives content writers a <strong>user-friendly editing experience</strong>
+  content: Forestry gives content writers a <strong>user-friendly editing experience.
+    This works quite nicely here.</strong>
 - template: block__feature
   component: feature
   background: light
