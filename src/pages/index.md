@@ -6,7 +6,7 @@ blocks:
   component: hero
   background: transparent
   title: Forestry's Gatsby Demo quite cool
-  subtitle: A Gatsby Starter Built for Forestry
+  subtitle: A Gatsby Starter Built for Forestry nice nice
 - template: block__feature
   component: feature
   image: "/src/images/forestry_markdown_editor.png"
