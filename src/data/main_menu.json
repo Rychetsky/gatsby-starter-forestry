@@ -1,13 +1,13 @@
 [
   {
     "type": "internal",
-    "url": "/posts",
-    "title": "Blog"
+    "url": "/",
+    "title": "Home"
   },
   {
     "type": "internal",
-    "url": "/",
-    "title": "Home"
+    "url": "/posts",
+    "title": "Blog"
   },
   {
     "type": "internal",
